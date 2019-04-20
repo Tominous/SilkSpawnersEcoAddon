@@ -4,7 +4,7 @@ chargeXP: false
 chargeBoth: false
 chargeMultipleAmounts: false
 confirmation:
-  enabled: false
+  enabled: true
   delay: 30
 default:
   break:
